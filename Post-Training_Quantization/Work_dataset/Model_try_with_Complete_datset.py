@@ -74,10 +74,6 @@ def measure_inference_time(dss):
 
     
 
-
-# In[6]:
-
-
 def plot_histograms(original_outputs, quantized_outputs, quantization_type):
     plt.figure(figsize=(12, 5))
 
@@ -85,7 +81,6 @@ def plot_histograms(original_outputs, quantized_outputs, quantization_type):
     plt.hist(original_outputs, bins=100, range=(0, 255), color='blue', alpha=0.7, label='Original')
     plt.title('Histogram Before Quantization')
     plt.xlim(-5,120)
-#     plt.xlabel('Pixel Value')
     plt.ylabel('Frequency')
     plt.legend()
 
@@ -93,7 +88,6 @@ def plot_histograms(original_outputs, quantized_outputs, quantization_type):
     plt.hist(quantized_outputs, bins=100, range=(0, 255), color='orange', alpha=0.7, label='Quantized')
     plt.title(f'Histogram After {quantization_type} Quantization')  # Include quantization type in title
     plt.xlim(-5,120)
-    #     plt.xlabel('Pixel Value')
     plt.ylabel('Frequency')
     plt.legend()
 
@@ -101,7 +95,9 @@ def plot_histograms(original_outputs, quantized_outputs, quantization_type):
     plt.show()
 
 
-# In[25]:
+
+
+
 
 
 if __name__ == "__main__":
