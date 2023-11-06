@@ -65,7 +65,7 @@ def plot_histograms(original_outputs, quantized_outputs):
     plt.show()
 
 if __name__ == "__main__":
-    dss = load_dataset()
+    dss = load_dataset().take(100)
     warm_up_gpu(dss)
     original_outputs, quantized_outputs = quantize_data(dss)
     measure_inference_time(dss)

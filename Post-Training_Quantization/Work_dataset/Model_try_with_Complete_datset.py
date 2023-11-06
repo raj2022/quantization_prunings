@@ -9,34 +9,16 @@ import tensorflow_datasets as tfds
 import time
 import matplotlib.pyplot as plt
 
-
-# In[2]:
-
-
-def load_dataset(num_samples=100):
+## loading the complete dataset
+def load_dataset():
     ds_builder = tfds.builder("clic_edm_qq_pf", data_dir='../../../tensorflow_datasets/')
     dss = ds_builder.as_data_source("test")
-    limited_dss = []
-
-    for elem in dss:
-        limited_dss.append(elem)
-        if len(limited_dss) >= num_samples:
-            break
-
-    return limited_dss
-
-
-# In[3]:
-
+    return dss
 
 def warm_up_gpu(dss):
     for elem in dss:
         _ = tf.dtypes.cast(elem["X"], tf.float16)
         break
-
-
-# In[4]:
-
 
 def quantize_data(dss):
     original_outputs = []
@@ -52,8 +34,6 @@ def quantize_data(dss):
     return original_outputs, quantized_outputs
 
 
-# In[5]:
-
 
 def measure_inference_time(dss):
     total_time = 0
@@ -66,21 +46,22 @@ def measure_inference_time(dss):
         total_time += end_time - start_time
         num_samples += 1
 
-        if num_samples >= 10:  # Process 10 samples
-            break
+#         if num_samples >= 10:  # Process 10 samples
+#             break
 
     average_inference_time = total_time / num_samples
     print(f'Average Inference Time: {average_inference_time} seconds')
 
-    
 
-def plot_histograms(original_outputs, quantized_outputs, quantization_type):
+
+def plot_histograms(original_outputs, quantized_outputs, quantization_type, save_path):
     plt.figure(figsize=(12, 5))
 
     plt.subplot(1, 2, 1)
     plt.hist(original_outputs, bins=100, range=(0, 255), color='blue', alpha=0.7, label='Original')
     plt.title('Histogram Before Quantization')
     plt.xlim(-5,120)
+#     plt.xlabel('Pixel Value')
     plt.ylabel('Frequency')
     plt.legend()
 
@@ -88,15 +69,12 @@ def plot_histograms(original_outputs, quantized_outputs, quantization_type):
     plt.hist(quantized_outputs, bins=100, range=(0, 255), color='orange', alpha=0.7, label='Quantized')
     plt.title(f'Histogram After {quantization_type} Quantization')  # Include quantization type in title
     plt.xlim(-5,120)
+    #     plt.xlabel('Pixel Value')
     plt.ylabel('Frequency')
     plt.legend()
 
     plt.tight_layout()
-    plt.show()
-
-
-
-
+    plt.savefig(save_path)
 
 
 
@@ -106,6 +84,6 @@ if __name__ == "__main__":
     original_outputs, quantized_outputs = quantize_data(dss)
     quantized_outputs = tf.stack(quantized_outputs).numpy()  # Convert to NumPy array
     measure_inference_time(dss)
-    plot_histograms(original_outputs, quantized_outputs, 'FP16')
-
+    save_path = 'histogram.png'
+    plot_histograms(original_outputs, quantized_outputs, 'FP16', save_path)
 
