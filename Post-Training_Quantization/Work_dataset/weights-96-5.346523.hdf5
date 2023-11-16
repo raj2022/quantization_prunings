@@ -7,12 +7,12 @@
 		<meta property="fb:app_id" content="1321688464574422" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@huggingface" />
-		<meta property="og:title" content="weights-96-5.346523.hdf5 · jpata/particleflow at clic_clusters_v1.6" />
+		<meta property="og:title" content="weights-96-5.346523.hdf5 · jpata/particleflow at main" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="https://huggingface.co/jpata/particleflow/blob/clic_clusters_v1.6/weights-96-5.346523.hdf5" />
+		<meta property="og:url" content="https://huggingface.co/jpata/particleflow/blob/main/weights-96-5.346523.hdf5" />
 		<meta property="og:image" content="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/jpata/particleflow.png" />
 
-		<link rel="stylesheet" href="/front/build/kube-1cb45ad/style.css" />
+		<link rel="stylesheet" href="/front/build/kube-a8c0d6d/style.css" />
 
 		<link rel="preconnect" href="https://fonts.gstatic.com" />
 		<link
@@ -36,10 +36,9 @@
 
 		  
 
-		<title>weights-96-5.346523.hdf5 · jpata/particleflow at clic_clusters_v1.6</title>
+		<title>weights-96-5.346523.hdf5 · jpata/particleflow at main</title>
 
 		<script defer data-domain="huggingface.co" src="/js/script.js"></script>
-		<script type="text/javascript" src="https://de5282c3ca0c.edge.sdk.awswaf.com/de5282c3ca0c/526cf06acb0d/challenge.js" defer></script>
 	</head>
 	<body class="flex flex-col min-h-screen bg-white dark:bg-gray-950 text-black ViewerBlobPage">
 		<div class="flex min-h-screen flex-col">
@@ -93,7 +92,7 @@
 	
 	<div class="SVELTE_HYDRATER contents" data-props="{}" data-target="SSOBanner"></div>
 
-	<main class="flex flex-1 flex-col"><div class="SVELTE_HYDRATER contents" data-props="{&quot;activeTab&quot;:&quot;files&quot;,&quot;author&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/be5ce4d5ca4313588fbc0783156b1a22.svg&quot;,&quot;fullname&quot;:&quot;Joosep Pata&quot;,&quot;name&quot;:&quot;jpata&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false},&quot;canReadRepoSettings&quot;:false,&quot;canWriteRepoContent&quot;:false,&quot;canDisable&quot;:false,&quot;model&quot;:{&quot;author&quot;:&quot;jpata&quot;,&quot;cardData&quot;:{&quot;license&quot;:&quot;apache-2.0&quot;,&quot;tags&quot;:[&quot;physics&quot;,&quot;reconstruction&quot;]},&quot;cardExists&quot;:true,&quot;config&quot;:{},&quot;discussionsDisabled&quot;:false,&quot;downloads&quot;:0,&quot;downloadsAllTime&quot;:0,&quot;id&quot;:&quot;jpata/particleflow&quot;,&quot;isLikedByUser&quot;:false,&quot;isWatchedByUser&quot;:false,&quot;inference&quot;:&quot;LibraryNotDetected&quot;,&quot;lastModified&quot;:&quot;2023-10-19T11:29:35.000Z&quot;,&quot;likes&quot;:0,&quot;model-index&quot;:null,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;gated&quot;:false,&quot;pwcLink&quot;:{&quot;error&quot;:&quot;Unknown error, can't generate link to Papers With Code.&quot;},&quot;tags&quot;:[&quot;onnx&quot;,&quot;physics&quot;,&quot;reconstruction&quot;,&quot;license:apache-2.0&quot;,&quot;region:us&quot;],&quot;tag_objs&quot;:[{&quot;id&quot;:&quot;onnx&quot;,&quot;label&quot;:&quot;ONNX&quot;,&quot;type&quot;:&quot;library&quot;},{&quot;id&quot;:&quot;physics&quot;,&quot;label&quot;:&quot;physics&quot;,&quot;type&quot;:&quot;other&quot;},{&quot;id&quot;:&quot;reconstruction&quot;,&quot;label&quot;:&quot;reconstruction&quot;,&quot;type&quot;:&quot;other&quot;},{&quot;id&quot;:&quot;license:apache-2.0&quot;,&quot;label&quot;:&quot;apache-2.0&quot;,&quot;type&quot;:&quot;license&quot;},{&quot;type&quot;:&quot;region&quot;,&quot;label&quot;:&quot;🇺🇸 Region: US&quot;,&quot;id&quot;:&quot;region:us&quot;}]},&quot;discussionsStats&quot;:{&quot;closed&quot;:0,&quot;open&quot;:0,&quot;total&quot;:0}}" data-target="ModelHeader"><header class="from-gray-50-to-white border-b border-gray-100 bg-gradient-to-t via-white dark:via-gray-950 pt-6 sm:pt-9"><div class="container relative "><h1 class="flex flex-wrap items-center leading-tight mb-3 text-lg md:text-xl">
+	<main class="flex flex-1 flex-col"><div class="SVELTE_HYDRATER contents" data-props="{&quot;activeTab&quot;:&quot;files&quot;,&quot;author&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/be5ce4d5ca4313588fbc0783156b1a22.svg&quot;,&quot;fullname&quot;:&quot;Joosep Pata&quot;,&quot;name&quot;:&quot;jpata&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false},&quot;canReadRepoSettings&quot;:false,&quot;canWriteRepoContent&quot;:false,&quot;canDisable&quot;:false,&quot;model&quot;:{&quot;author&quot;:&quot;jpata&quot;,&quot;config&quot;:{},&quot;discussionsDisabled&quot;:false,&quot;downloads&quot;:0,&quot;downloadsAllTime&quot;:0,&quot;id&quot;:&quot;jpata/particleflow&quot;,&quot;isLikedByUser&quot;:false,&quot;isWatchedByUser&quot;:false,&quot;inference&quot;:false,&quot;lastModified&quot;:&quot;2023-09-29T14:33:18.000Z&quot;,&quot;likes&quot;:0,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;gated&quot;:false,&quot;pwcLink&quot;:{&quot;error&quot;:&quot;Unknown error, can't generate link to Papers With Code.&quot;},&quot;tags&quot;:[&quot;region:us&quot;],&quot;tag_objs&quot;:[{&quot;type&quot;:&quot;region&quot;,&quot;label&quot;:&quot;🇺🇸 Region: US&quot;,&quot;id&quot;:&quot;region:us&quot;}]},&quot;discussionsStats&quot;:{&quot;closed&quot;:0,&quot;open&quot;:0,&quot;total&quot;:0}}" data-target="ModelHeader"><header class="from-gray-50-to-white border-b border-gray-100 bg-gradient-to-t via-white dark:via-gray-950 pt-6 sm:pt-9"><div class="container relative "><h1 class="flex flex-wrap items-center leading-tight mb-3 text-lg md:text-xl">
 			<div class="group flex flex-none items-center"><div class="relative mr-1.5 flex items-center">
 
 			<img alt="" class="w-3.5 h-3.5 rounded-full " src="/avatars/be5ce4d5ca4313588fbc0783156b1a22.svg" crossorigin="anonymous"></div>
@@ -111,25 +110,7 @@
 	<button class="flex items-center border-l px-1.5 py-1 text-gray-400 hover:bg-gray-50 focus:bg-gray-100 focus:outline-none dark:hover:bg-gray-900 dark:focus:bg-gray-800" title="See users who liked this repository">0</button></div>
 
 			</h1>
-		<div class="mb-3 flex flex-wrap md:mb-4"><a class="tag  tag-white" href="/models?library=onnx"><svg class="text-black inline-block ml-2 text-sm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M30.7,15h-.2L25.16,5.09a1.26,1.26,0,0,0,.15-.59A1.3,1.3,0,0,0,24,3.2a1.27,1.27,0,0,0-.93.4L12.43,1.48A1.29,1.29,0,1,0,10,2.24L1.7,14.13a1.21,1.21,0,0,0-.34-.05,1.3,1.3,0,0,0,0,2.59h0l4.5,11.07a1.38,1.38,0,0,0-.12.54,1.3,1.3,0,0,0,1.3,1.29,1.27,1.27,0,0,0,.94-.4l13.44,1.31A1.29,1.29,0,0,0,24,30.16a1.34,1.34,0,0,0-.31-.84l6.77-11.8h.22A1.3,1.3,0,0,0,32,16.24,1.28,1.28,0,0,0,30.7,15ZM23,5.29a1.26,1.26,0,0,0,.61.44l-2,15.37a1.29,1.29,0,0,0-.36.14L10,11.52a.93.93,0,0,0,.05-.34c0-.08,0-.17,0-.25Zm6.47,11.32-6.89,4.71a1.28,1.28,0,0,0-.17-.1L24.45,5.69h0l5.26,9.7a1.27,1.27,0,0,0-.32.86ZM8.57,9.9a1.28,1.28,0,0,0-1.09,1.28v.09L2.86,14,10,3.74ZM9,12.45a1.54,1.54,0,0,0,.47-.21l11.11,9.67a1.45,1.45,0,0,0-.08.47v.07l-12.4,5.1A1.3,1.3,0,0,0,7.34,27ZM20.87,23.24a1.22,1.22,0,0,0,.65.39L22.13,29a1.34,1.34,0,0,0-.59.61l-13-1.28Zm1.53.29a1.33,1.33,0,0,0,.72-1.16.83.83,0,0,0-.05-.32l6.3-4.33L23,28.8Zm.32-19.08L9.58,10.17l-.15-.1L11.1,2.91h.05a1.26,1.26,0,0,0,1.08-.59L22.72,4.41ZM2.66,15.38c0-.09,0-.17,0-.24l5.19-3.06a1.41,1.41,0,0,0,.36.27L6.5,26.86,2.22,16.34A1.28,1.28,0,0,0,2.66,15.38Z" fill="#333"></path><path d="M24.49,5.69l5.25,9.7a1.32,1.32,0,0,0-.32.86,1.49,1.49,0,0,0,0,.36l-6.88,4.71-.17-.1,2-15.53Z" fill="#dededd"></path><path d="M22.4,23.53a1.33,1.33,0,0,0,.72-1.16.83.83,0,0,0-.05-.32l6.3-4.33L23,28.8Z" fill="#b2b2b2"></path><path d="M20.87,23.24a1.22,1.22,0,0,0,.65.39L22.13,29a1.34,1.34,0,0,0-.59.61l-13-1.28Z" fill="#d1d1d1"></path><path d="M9,12.45a1.54,1.54,0,0,0,.47-.21l11.11,9.67a1.45,1.45,0,0,0-.08.47v.07l-12.4,5.1A1.3,1.3,0,0,0,7.34,27Z" fill="#f2f2f2"></path><path d="M2.66,15.38c0-.09,0-.17,0-.24l5.19-3.06a1.41,1.41,0,0,0,.36.27L6.5,26.86,2.22,16.34A1.28,1.28,0,0,0,2.66,15.38Z" fill="#d8d8d7"></path><path d="M8.57,9.9a1.28,1.28,0,0,0-1.09,1.28v.09L2.86,14,10,3.74Z" fill="#b2b2b2"></path><path d="M22.72,4.45,9.58,10.17l-.15-.1L11.1,2.91h.05a1.26,1.26,0,0,0,1.08-.59L22.72,4.41Z" fill="#d1d1d1"></path><path d="M23,5.29a1.26,1.26,0,0,0,.61.44l-2,15.37a1.29,1.29,0,0,0-.36.14L10,11.52a.93.93,0,0,0,.05-.34c0-.08,0-.17,0-.25Z" fill="#fff"></path></svg>
-		<span>ONNX</span>
-		</a><a class="tag  tag-purple" href="/models?other=physics">
-		<span>physics</span>
-		</a><a class="tag  tag-purple" href="/models?other=reconstruction">
-		<span>reconstruction</span>
-		</a><div class="relative inline-block mr-1 mb-1 md:mr-1.5 md:mb-1.5 w-72">
-	<button class=" " type="button">
-		
-			<a class="tag mr-0 mb-0 md:mr-0 md:mb-0 tag-white rounded-full" href="/models?license=license%3Aapache-2.0"><svg class="ml-2 text-xs text-gray-900" width="1em" height="1em" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.46009 5.0945V6.88125C1.46009 7.25201 1.75937 7.55129 2.13012 7.55129C2.50087 7.55129 2.80016 7.25201 2.80016 6.88125V5.0945C2.80016 4.72375 2.50087 4.42446 2.13012 4.42446C1.75937 4.42446 1.46009 4.72375 1.46009 5.0945ZM4.14022 5.0945V6.88125C4.14022 7.25201 4.4395 7.55129 4.81026 7.55129C5.18101 7.55129 5.48029 7.25201 5.48029 6.88125V5.0945C5.48029 4.72375 5.18101 4.42446 4.81026 4.42446C4.4395 4.42446 4.14022 4.72375 4.14022 5.0945ZM1.23674 9.78473H8.38377C8.75452 9.78473 9.0538 9.48545 9.0538 9.1147C9.0538 8.74395 8.75452 8.44466 8.38377 8.44466H1.23674C0.865993 8.44466 0.566711 8.74395 0.566711 9.1147C0.566711 9.48545 0.865993 9.78473 1.23674 9.78473ZM6.82036 5.0945V6.88125C6.82036 7.25201 7.11964 7.55129 7.49039 7.55129C7.86114 7.55129 8.16042 7.25201 8.16042 6.88125V5.0945C8.16042 4.72375 7.86114 4.42446 7.49039 4.42446C7.11964 4.42446 6.82036 4.72375 6.82036 5.0945ZM4.39484 0.623142L0.865993 2.48137C0.682851 2.57517 0.566711 2.76725 0.566711 2.97273C0.566711 3.28094 0.816857 3.53109 1.12507 3.53109H8.49991C8.80365 3.53109 9.0538 3.28094 9.0538 2.97273C9.0538 2.76725 8.93766 2.57517 8.75452 2.48137L5.22568 0.623142C4.9666 0.484669 4.65391 0.484669 4.39484 0.623142V0.623142Z" fill="currentColor"></path></svg>
-			<span class="-mr-1 !pr-0 text-gray-400">License: </span>
-		<span>apache-2.0</span>
-		</a>
-		
-		</button>
-	
-	
-	
-	</div></div>
+		<div class="mb-3 flex flex-wrap md:mb-4"></div>
 
 		<div class="flex flex-col-reverse lg:flex-row lg:items-center lg:justify-between"><div class="-mb-px flex h-12 items-center overflow-x-auto overflow-y-hidden "><a class="tab-alternate " href="/jpata/particleflow"><svg class="mr-1.5 text-gray-400 flex-none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path class="uim-quaternary" d="M20.23 7.24L12 12L3.77 7.24a1.98 1.98 0 0 1 .7-.71L11 2.76c.62-.35 1.38-.35 2 0l6.53 3.77c.29.173.531.418.7.71z" opacity=".25" fill="currentColor"></path><path class="uim-tertiary" d="M12 12v9.5a2.09 2.09 0 0 1-.91-.21L4.5 17.48a2.003 2.003 0 0 1-1-1.73v-7.5a2.06 2.06 0 0 1 .27-1.01L12 12z" opacity=".5" fill="currentColor"></path><path class="uim-primary" d="M20.5 8.25v7.5a2.003 2.003 0 0 1-1 1.73l-6.62 3.82c-.275.13-.576.198-.88.2V12l8.23-4.76c.175.308.268.656.27 1.01z" fill="currentColor"></path></svg>
 			Model card
@@ -150,7 +131,9 @@
 			
 
 
-<div class="relative mb-1.5 flex flex-wrap gap-1.5 sm:flex-nowrap lg:mb-0"><div class="order-last sm:order-first"><div class="relative ">
+<div class="relative mb-1.5 flex flex-wrap gap-1.5 sm:flex-nowrap lg:mb-0">
+
+<div class="order-last sm:order-first"><div class="relative ">
 	<button class="btn px-1.5 py-1.5 " type="button">
 		
 			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="p-0.5" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><circle cx="16" cy="7" r="3" fill="currentColor"></circle><circle cx="16" cy="16" r="3" fill="currentColor"></circle><circle cx="16" cy="25" r="3" fill="currentColor"></circle></svg>
@@ -169,35 +152,29 @@
 
 
 
-
-
 	
 	
 	<div class="flex-auto sm:flex-none"><button class="w-full cursor-pointer btn text-sm" type="button" ><svg class="mr-1.5 " xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M31 16l-7 7l-1.41-1.41L28.17 16l-5.58-5.59L24 9l7 7z" fill="currentColor"></path><path d="M1 16l7-7l1.41 1.41L3.83 16l5.58 5.59L8 23l-7-7z" fill="currentColor"></path><path d="M12.419 25.484L17.639 6l1.932.518L14.35 26z" fill="currentColor"></path></svg>
 		Use with library</button>
-
-	
-	
-
-</div></div>
+	</div></div>
 	</div></div></header></div>
 	
-<div class="container relative flex flex-col md:grid md:space-y-0 w-full md:grid-cols-12  space-y-4 md:gap-6 mb-16"><section class="pt-8 border-gray-100 col-span-full"><header class="flex flex-wrap items-center justify-start pb-2 md:justify-end lg:flex-nowrap"><div class="mr-4 flex min-w-0 basis-auto flex-wrap items-center md:flex-grow md:basis-full lg:basis-auto lg:flex-nowrap"><div class="SVELTE_HYDRATER contents" data-props="{&quot;path&quot;:&quot;weights-96-5.346523.hdf5&quot;,&quot;repoName&quot;:&quot;jpata/particleflow&quot;,&quot;repoType&quot;:&quot;model&quot;,&quot;rev&quot;:&quot;clic_clusters_v1.6&quot;,&quot;refs&quot;:{&quot;branches&quot;:[{&quot;name&quot;:&quot;main&quot;,&quot;ref&quot;:&quot;refs/heads/main&quot;,&quot;targetCommit&quot;:&quot;7bf06701ce199f296ff1fb4ad0620b5382b982e6&quot;}],&quot;tags&quot;:[{&quot;name&quot;:&quot;clic_clusters_v1.6&quot;,&quot;ref&quot;:&quot;refs/tags/clic_clusters_v1.6&quot;,&quot;targetCommit&quot;:&quot;18d58e0248e62c5b34f18ccafcfd157d567a5c0a&quot;}],&quot;converts&quot;:[]},&quot;view&quot;:&quot;blob&quot;}" data-target="BranchSelector"><div class="relative mr-4 mb-2">
+<div class="container relative flex flex-col md:grid md:space-y-0 w-full md:grid-cols-12  space-y-4 md:gap-6 mb-16"><section class="pt-8 border-gray-100 col-span-full"><header class="flex flex-wrap items-center justify-start pb-2 md:justify-end lg:flex-nowrap"><div class="mr-4 flex min-w-0 basis-auto flex-wrap items-center md:flex-grow md:basis-full lg:basis-auto lg:flex-nowrap"><div class="SVELTE_HYDRATER contents" data-props="{&quot;path&quot;:&quot;weights-96-5.346523.hdf5&quot;,&quot;repoName&quot;:&quot;jpata/particleflow&quot;,&quot;repoType&quot;:&quot;model&quot;,&quot;rev&quot;:&quot;main&quot;,&quot;refs&quot;:{&quot;branches&quot;:[{&quot;name&quot;:&quot;main&quot;,&quot;ref&quot;:&quot;refs/heads/main&quot;,&quot;targetCommit&quot;:&quot;18d58e0248e62c5b34f18ccafcfd157d567a5c0a&quot;}],&quot;tags&quot;:[],&quot;converts&quot;:[]},&quot;view&quot;:&quot;blob&quot;}" data-target="BranchSelector"><div class="relative mr-4 mb-2">
 	<button class="text-sm md:text-base btn w-full cursor-pointer text-sm" type="button">
 		<svg class="mr-1.5 text-gray-700 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" style="transform: rotate(360deg);"><path d="M13 14c-3.36 0-4.46 1.35-4.82 2.24C9.25 16.7 10 17.76 10 19a3 3 0 0 1-3 3a3 3 0 0 1-3-3c0-1.31.83-2.42 2-2.83V7.83A2.99 2.99 0 0 1 4 5a3 3 0 0 1 3-3a3 3 0 0 1 3 3c0 1.31-.83 2.42-2 2.83v5.29c.88-.65 2.16-1.12 4-1.12c2.67 0 3.56-1.34 3.85-2.23A3.006 3.006 0 0 1 14 7a3 3 0 0 1 3-3a3 3 0 0 1 3 3c0 1.34-.88 2.5-2.09 2.86C17.65 11.29 16.68 14 13 14m-6 4a1 1 0 0 0-1 1a1 1 0 0 0 1 1a1 1 0 0 0 1-1a1 1 0 0 0-1-1M7 4a1 1 0 0 0-1 1a1 1 0 0 0 1 1a1 1 0 0 0 1-1a1 1 0 0 0-1-1m10 2a1 1 0 0 0-1 1a1 1 0 0 0 1 1a1 1 0 0 0 1-1a1 1 0 0 0-1-1z" fill="currentColor"></path></svg>
-			clic_clusters_v1.6
+			main
 		<svg class="-mr-1 text-gray-500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" style="transform: rotate(360deg);"><path d="M7 10l5 5l5-5z" fill="currentColor"></path></svg></button>
 	
 	
 	
 	</div></div>
-		<div class="mb-2 flex items-center overflow-hidden"><a class="truncate text-gray-800 hover:underline" href="/jpata/particleflow/tree/clic_clusters_v1.6">particleflow</a>
+		<div class="mb-2 flex items-center overflow-hidden"><a class="truncate text-gray-800 hover:underline" href="/jpata/particleflow/tree/main">particleflow</a>
 			<span class="mx-1 text-gray-300">/</span>
 				<span class="dark:text-gray-300">weights-96-5.346523.hdf5</span></div></div>
 
 	
 	</header>
-			<div class="SVELTE_HYDRATER contents" data-props="{&quot;commitLast&quot;:{&quot;date&quot;:&quot;2023-09-27T11:36:43.000Z&quot;,&quot;subject&quot;:&quot;Upload cluster-based trained model&quot;,&quot;authors&quot;:[{&quot;_id&quot;:&quot;63067664660f01f150a4ac48&quot;,&quot;avatar&quot;:&quot;/avatars/be5ce4d5ca4313588fbc0783156b1a22.svg&quot;,&quot;isHf&quot;:false,&quot;user&quot;:&quot;jpata&quot;}],&quot;commit&quot;:{&quot;id&quot;:&quot;b5c1b5ffb50cdc4589a3e9d02f2656551e590556&quot;,&quot;parentIds&quot;:[&quot;d77cfc4cc925af5454c2307005cf02d17f4d0b1b&quot;]},&quot;title&quot;:&quot;Upload cluster-based trained model&quot;},&quot;repo&quot;:{&quot;name&quot;:&quot;jpata/particleflow&quot;,&quot;type&quot;:&quot;model&quot;}}" data-target="LastCommit"><div class="from-gray-100-to-white flex items-baseline rounded-t-lg border border-b-0 bg-gradient-to-t px-3 py-2 dark:border-gray-800"><img class="mr-2.5 mt-0.5 h-4 w-4 self-center rounded-full" alt="jpata's picture" src="/avatars/be5ce4d5ca4313588fbc0783156b1a22.svg">
+			<div class="SVELTE_HYDRATER contents" data-props="{&quot;commitLast&quot;:{&quot;date&quot;:&quot;2023-09-27T11:36:43.000Z&quot;,&quot;subject&quot;:&quot;Upload cluster-based trained model&quot;,&quot;authors&quot;:[{&quot;_id&quot;:&quot;63067664660f01f150a4ac48&quot;,&quot;avatar&quot;:&quot;/avatars/be5ce4d5ca4313588fbc0783156b1a22.svg&quot;,&quot;isHf&quot;:false,&quot;user&quot;:&quot;jpata&quot;}],&quot;commit&quot;:{&quot;id&quot;:&quot;b5c1b5ffb50cdc4589a3e9d02f2656551e590556&quot;,&quot;parentIds&quot;:[&quot;d77cfc4cc925af5454c2307005cf02d17f4d0b1b&quot;]},&quot;title&quot;:&quot;Upload cluster-based trained model&quot;},&quot;repo&quot;:{&quot;name&quot;:&quot;jpata/particleflow&quot;,&quot;type&quot;:&quot;model&quot;}}" data-target="LastCommit"><div class="from-gray-100-to-white flex items-baseline rounded-t-lg border border-b-0 bg-gradient-to-t px-3 py-2 dark:border-gray-800"><img class="mt-0.5 mr-2.5 h-4 w-4 self-center rounded-full" alt="jpata's picture" src="/avatars/be5ce4d5ca4313588fbc0783156b1a22.svg">
 			<div class="mr-5 flex flex-none items-center truncate"><a class="hover:underline" href="/jpata">jpata
 					</a>
 				
@@ -205,14 +182,18 @@
 		<div class="mr-4 truncate font-mono text-sm text-gray-500 hover:prose-a:underline"><!-- HTML_TAG_START -->Upload cluster-based trained model<!-- HTML_TAG_END --></div>
 		<a class="rounded border bg-gray-50 px-1.5 text-sm hover:underline dark:border-gray-800 dark:bg-gray-900" href="/jpata/particleflow/commit/b5c1b5ffb50cdc4589a3e9d02f2656551e590556">b5c1b5f</a>
 		
-		<time class="ml-auto hidden flex-none truncate pl-2 text-gray-500 dark:text-gray-400 lg:block" datetime="2023-09-27T11:36:43" title="Wed, 27 Sep 2023 11:36:43 GMT">about 2 months ago</time></div></div>
+		<time class="ml-auto hidden flex-none truncate pl-2 text-gray-500 dark:text-gray-400 lg:block" datetime="2023-09-27T11:36:43" title="Wed, 27 Sep 2023 11:36:43 GMT">2 days ago</time></div></div>
 			<div class="flex flex-wrap items-center border px-3 py-1.5 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900">
-				<a class="my-1 mr-4 flex items-center hover:underline " download="" href="/jpata/particleflow/resolve/clic_clusters_v1.6/weights-96-5.346523.hdf5?download=true"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+				<a class="my-1 mr-4 flex items-center hover:underline " download="weights-96-5.346523.hdf5" href="/jpata/particleflow/resolve/main/weights-96-5.346523.hdf5"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
 							download
-						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/jpata/particleflow/commits/clic_clusters_v1.6/weights-96-5.346523.hdf5"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12s12-5.383 12-12S22.617 4 16 4zm0 2c5.535 0 10 4.465 10 10s-4.465 10-10 10S6 21.535 6 16S10.465 6 16 6zm-1 2v9h7v-2h-5V8z" fill="currentColor"></path></svg>
+						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/jpata/particleflow/commits/main/weights-96-5.346523.hdf5"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12s12-5.383 12-12S22.617 4 16 4zm0 2c5.535 0 10 4.465 10 10s-4.465 10-10 10S6 21.535 6 16S10.465 6 16 6zm-1 2v9h7v-2h-5V8z" fill="currentColor"></path></svg>
 							history
-						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/jpata/particleflow/blame/clic_clusters_v1.6/weights-96-5.346523.hdf5"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2zm0 26a12 12 0 1 1 12-12a12 12 0 0 1-12 12z" fill="currentColor"></path><path d="M11.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path><path d="M20.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path></svg>
+						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/jpata/particleflow/blame/main/weights-96-5.346523.hdf5"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2zm0 26a12 12 0 1 1 12-12a12 12 0 0 1-12 12z" fill="currentColor"></path><path d="M11.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path><path d="M20.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path></svg>
 							blame
+						</a><a class="my-1 mr-4 flex items-center hover:underline text-green-600 dark:text-gray-300" href="/jpata/particleflow/edit/main/weights-96-5.346523.hdf5"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M2 26h28v2H2z" fill="currentColor"></path><path d="M25.4 9c.8-.8.8-2 0-2.8l-3.6-3.6c-.8-.8-2-.8-2.8 0l-15 15V24h6.4l15-15zm-5-5L24 7.6l-3 3L17.4 7l3-3zM6 22v-3.6l10-10l3.6 3.6l-10 10H6z" fill="currentColor"></path></svg>
+							contribute
+						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/jpata/particleflow/delete/main/weights-96-5.346523.hdf5"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M12 12h2v12h-2z" fill="currentColor"></path><path d="M18 12h2v12h-2z" fill="currentColor"></path><path d="M4 6v2h2v20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8h2V6zm4 22V8h16v20z" fill="currentColor"></path><path d="M12 2h8v2h-8z" fill="currentColor"></path></svg>
+							delete
 						</a>
 				<div class="mr-4 flex items-center text-gray-400"><svg class="text-gray-300 text-sm mr-1.5 -translate-y-px" width="1em" height="1em" viewBox="0 0 22 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.3634 10.3639C15.8486 10.8491 15.8486 11.6357 15.3634 12.1209L10.9292 16.5551C10.6058 16.8785 10.0814 16.8785 9.7579 16.5551L7.03051 13.8277C6.54532 13.3425 6.54532 12.5558 7.03051 12.0707C7.51569 11.5855 8.30234 11.5855 8.78752 12.0707L9.7579 13.041C10.0814 13.3645 10.6058 13.3645 10.9292 13.041L13.6064 10.3639C14.0916 9.8787 14.8782 9.8787 15.3634 10.3639Z" fill="currentColor"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6666 27.12C4.93329 25.28 0 19.2267 0 12.7867V6.52001C0 5.40001 0.693334 4.41334 1.73333 4.01334L9.73333 1.01334C10.3333 0.786673 11 0.786673 11.6 1.02667L19.6 4.02667C20.1083 4.21658 20.5465 4.55701 20.8562 5.00252C21.1659 5.44803 21.3324 5.97742 21.3333 6.52001V12.7867C21.3333 19.24 16.4 25.28 10.6666 27.12Z" fill="currentColor" fill-opacity="0.22"></path><path d="M10.0845 1.94967L10.0867 1.94881C10.4587 1.8083 10.8666 1.81036 11.2286 1.95515L11.2387 1.95919L11.2489 1.963L19.2489 4.963L19.25 4.96342C19.5677 5.08211 19.8416 5.29488 20.0351 5.57333C20.2285 5.85151 20.3326 6.18203 20.3333 6.52082C20.3333 6.52113 20.3333 6.52144 20.3333 6.52176L20.3333 12.7867C20.3333 18.6535 15.8922 24.2319 10.6666 26.0652C5.44153 24.2316 1 18.6409 1 12.7867V6.52001C1 5.82357 1.42893 5.20343 2.08883 4.94803L10.0845 1.94967Z" stroke="currentColor" stroke-opacity="0.30" stroke-width="2"></path></svg>
 
@@ -225,7 +206,7 @@
 				<div class="p-4 py-8 text-center">This file is stored with
 							<a class="underline" href="https://git-lfs.github.com/">Git LFS</a>
 							. It is too big to display, but you can still
-							<a download class="underline" href="/jpata/particleflow/resolve/clic_clusters_v1.6/weights-96-5.346523.hdf5">download</a>
+							<a download class="underline" href="/jpata/particleflow/resolve/main/weights-96-5.346523.hdf5">download</a>
 							it.
 						</div>
 					<div class="border-t p-4"><h3 class="mb-2 font-semibold leading-relaxed">Git LFS Details</h3>
@@ -235,7 +216,7 @@
 								133 Bytes</li>
 							<li><strong>Size of remote file:</strong>
 								22.7 MB</li></ul>
-						<div class="mb-3 mt-2.5"><a class="flex items-center underline" href="/jpata/particleflow/raw/clic_clusters_v1.6/weights-96-5.346523.hdf5" target="_blank"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M25.7 9.3l-7-7A.908.908 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.908.908 0 0 0-.3-.7zM18 4.4l5.6 5.6H18zM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6z" fill="currentColor"></path></svg>
+						<div class="mt-2.5 mb-3"><a class="flex items-center underline" href="/jpata/particleflow/raw/main/weights-96-5.346523.hdf5" target="_blank"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M25.7 9.3l-7-7A.908.908 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.908.908 0 0 0-.3-.7zM18 4.4l5.6 5.6H18zM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6z" fill="currentColor"></path></svg>
 								Raw pointer file
 							</a></div>
 						<p class="text-sm text-gray-500">Git Large File Storage (LFS) replaces large files with text pointers inside Git, while storing the file
@@ -245,9 +226,9 @@
 	</div>
 
 		<script>
-			import("/front/build/kube-1cb45ad/index.js");
-			window.moonSha = "kube-1cb45ad/";
-			window.hubConfig = JSON.parse(`{"features":{"signupDisabled":false},"sshGitUrl":"git@hf.co","moonHttpUrl":"https://huggingface.co","captchaApiKey":"bd5f2066-93dc-4bdd-a64b-a24646ca3859","captchaDisabledOnSignup":true,"datasetsServerPublicUrl":"https://datasets-server.huggingface.co","stripePublicKey":"pk_live_x2tdjFXBCvXo2FFmMybezpeM00J6gPCAAc","environment":"production","userAgent":"HuggingFace (production)"}`);
+			import("/front/build/kube-a8c0d6d/index.js");
+			window.moonSha = "kube-a8c0d6d/";
+			window.hubConfig = JSON.parse(`{"features":{"signupDisabled":false},"sshGitUrl":"git@hf.co","moonHttpUrl":"https://huggingface.co","captchaApiKey":"bd5f2066-93dc-4bdd-a64b-a24646ca3859","stripePublicKey":"pk_live_x2tdjFXBCvXo2FFmMybezpeM00J6gPCAAc","environment":"production","userAgent":"HuggingFace (production)"}`);
 		</script>
 
 		<!-- Stripe -->
@@ -275,11 +256,32 @@
 					}
 				}
 				gtag("js", new Date());
-				gtag("config", "G-8Q63TH4CSL", { page_path: "/jpata/particleflow/blob/clic_clusters_v1.6/weights-96-5.346523.hdf5" });
+				gtag("config", "G-8Q63TH4CSL", { page_path: "/jpata/particleflow/blob/main/weights-96-5.346523.hdf5" });
 				/// ^ See https://developers.google.com/analytics/devguides/collection/gtagjs/pages
 				gtag("consent", "default", { ad_storage: "denied", analytics_storage: "denied" });
 				/// ^ See https://developers.google.com/tag-platform/gtagjs/reference#consent
 				/// TODO: ask the user for their consent and update this with gtag('consent', 'update')
+			}
+		</script>
+
+		<!-- Google Analytics v3 (deprecated) -->
+		<script>
+			if (["hf.co", "huggingface.co"].includes(window.location.hostname)) {
+				(function (i, s, o, g, r, a, m) {
+					i["GoogleAnalyticsObject"] = r;
+					(i[r] =
+						i[r] ||
+						function () {
+							(i[r].q = i[r].q || []).push(arguments);
+						}),
+						(i[r].l = 1 * new Date());
+					(a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+					a.async = 1;
+					a.src = g;
+					m.parentNode.insertBefore(a, m);
+				})(window, document, "script", "https://www.google-analytics.com/analytics.js", "ganalytics");
+				ganalytics("create", "UA-83738774-2", "auto");
+				ganalytics("send", "pageview", "/jpata/particleflow/blob/main/weights-96-5.346523.hdf5");
 			}
 		</script>
 	</body>
