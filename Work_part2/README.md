@@ -19,6 +19,9 @@ INFO: cpu w/ 2 threads (xnnpack): count=50 first=51091 curr=46730 min=44272 max=
 INFO: cpu w/ 1 threads (xnnpack): count=50 first=62862 curr=64838 min=60363 max=70098 avg=62946 std=1723
 INFO:                gpu-default: count=50 first=65213 curr=62519 min=60344 max=77515 avg=64018.8 std=3051
 INFO:           cpu w/ 1 threads: count=50 first=66027 curr=65129 min=62093 max=81266 avg=64855.8 std=2909
+
+
+## Dynamic Range Quantization
 ==============Summary of All Runs w/ Different Performance Options==============
 INFO: cpu w/ 1 threads (xnnpack): count=50 first=99189 curr=99144 min=95864 max=101700 avg=98936.8 std=1456
 INFO: cpu w/ 4 threads (xnnpack): count=50 first=109514 curr=111269 min=95359 max=132744 avg=107331 std=8974
@@ -28,6 +31,3 @@ INFO:           cpu w/ 1 threads: count=50 first=120213 curr=118023 min=117219 m
 INFO:                gpu-default: count=50 first=124576 curr=121429 min=117335 max=127526 avg=121437 std=2323
 INFO:           cpu w/ 4 threads: count=50 first=130976 curr=118367 min=115581 max=155916 avg=128087 std=12554
 
-
-
-## Dynamic Range Quantization
